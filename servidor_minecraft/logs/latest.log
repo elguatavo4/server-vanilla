@@ -322,3 +322,13 @@ java.lang.IllegalStateException: zip file closed
 [23:22:10] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
 [23:22:10] [Server thread/INFO]: _TaeV_ left the game
 [23:22:26] [Server thread/INFO]: MrCreeper1 has reached the goal [Postmortal]
+[23:25:10] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[23:25:37] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Who Needs Rockets?]
+[23:26:56] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[23:27:15] [Server thread/INFO]: MrCreeper1 lost connection: Disconnected
+[23:27:15] [Server thread/INFO]: MrCreeper1 left the game
+[23:27:29] [Async Chat Thread - #10/INFO]: [Not Secure] <ThiaguitoOwO2021> SEXOOOOOOO
+[23:27:32] [User Authenticator #10/INFO]: UUID of player MrCreeper1 is 2a711b43-12fd-3fa1-b396-372db0034d95
+[23:27:33] [Server thread/INFO]: MrCreeper1 joined the game
+[23:27:33] [Server thread/INFO]: MrCreeper1[/127.71.79.128:34639] logged in with entity id 27067 at ([world]2486.332675814218, 104.0, 3014.223091595804)
+[23:30:00] [Server thread/INFO]: Villager Villager['Weaponsmith'/343, uuid='36385612-9a47-4cf6-bb47-7600804f33f8', l='ServerLevel[world]', x=2475.70, y=89.00, z=2948.30, cpos=[154, 184], tl=2681445, v=true] died, message: 'Weaponsmith was slain by kanekasotaku'

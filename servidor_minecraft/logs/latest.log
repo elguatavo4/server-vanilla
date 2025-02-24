@@ -332,3 +332,11 @@ java.lang.IllegalStateException: zip file closed
 [23:27:33] [Server thread/INFO]: MrCreeper1 joined the game
 [23:27:33] [Server thread/INFO]: MrCreeper1[/127.71.79.128:34639] logged in with entity id 27067 at ([world]2486.332675814218, 104.0, 3014.223091595804)
 [23:30:00] [Server thread/INFO]: Villager Villager['Weaponsmith'/343, uuid='36385612-9a47-4cf6-bb47-7600804f33f8', l='ServerLevel[world]', x=2475.70, y=89.00, z=2948.30, cpos=[154, 184], tl=2681445, v=true] died, message: 'Weaponsmith was slain by kanekasotaku'
+[23:35:10] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> kanekasotaku
+[23:35:12] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> kanekasotaku
+[23:35:14] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> kanekasotaku
+[23:36:40] [User Authenticator #11/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[23:36:41] [Server thread/INFO]: _TaeV_ joined the game
+[23:36:41] [Server thread/INFO]: _TaeV_[/127.151.148.217:37975] logged in with entity id 32489 at ([world_nether]379.30000001192093, 15.0, 352.69999998807907)
+[23:41:12] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:41:12] [Server thread/INFO]: ThiaguitoOwO2021 left the game

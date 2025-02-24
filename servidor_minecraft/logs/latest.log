@@ -258,3 +258,12 @@ java.lang.IllegalStateException: zip file closed
 [22:36:43] [Server thread/INFO]: MrCreeper1 was slain by elguatavo7u7159
 [22:36:57] [Async Chat Thread - #3/INFO]: [Not Secure] <ThiaguitoOwO2021> ala
 [22:37:37] [Async Chat Thread - #3/INFO]: [Not Secure] <elguatavo7u7159> lla fuera
+[22:42:09] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[22:42:10] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[22:42:24] [User Authenticator #4/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[22:42:25] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[22:42:25] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:51399] logged in with entity id 8091 at ([world]2502.6595331727567, 89.20000004768372, 3007.963086282038)
+[22:43:43] [Server thread/INFO]: elguatavo7u7159 has completed the challenge [Over-Overkill]
+[22:44:34] [Server thread/WARN]: _TaeV_ moved wrongly!
+[22:48:27] [Server thread/INFO]: _TaeV_ has made the advancement [Take Aim]
+[22:51:51] [Server thread/WARN]: _TaeV_ moved wrongly!

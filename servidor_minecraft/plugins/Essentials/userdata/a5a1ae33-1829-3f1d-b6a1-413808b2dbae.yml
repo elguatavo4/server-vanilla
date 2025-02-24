@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.146.202.33
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740186743495
+  login: 1740185678479
+money: '0'
+last-account-name: kanekasotaku
+logoutlocation:
+  world: 51bde1e6-62c9-46b3-a258-322723ff969b
+  world-name: world
+  x: 2493.6695240798463
+  y: 89.0
+  z: 3003.4614247433688
+  yaw: -53.868621826171875
+  pitch: 14.714522361755371

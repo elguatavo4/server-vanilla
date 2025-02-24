@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.36.229.155
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739822490622
+  login: 1739822472060
+money: '0'
+last-account-name: ThiagoPro2021
+logoutlocation:
+  world: 326c389f-88fd-4b7b-b445-dfb70f9f275b
+  world-name: world_nether
+  x: 56.69680552196275
+  y: 115.0
+  z: 94.94603964710137
+  yaw: 0.5499362945556641
+  pitch: 15.631056785583496

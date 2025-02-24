@@ -313,3 +313,12 @@ java.lang.IllegalStateException: zip file closed
 [23:11:50] [User Authenticator #8/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
 [23:11:51] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
 [23:11:51] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:40515] logged in with entity id 20762 at ([world]2491.7028433185305, 104.24918707874468, 2994.947744317229)
+[23:20:13] [Server thread/WARN]: ThiaguitoOwO2021 moved wrongly!
+[23:20:42] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:20:42] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:21:36] [User Authenticator #9/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:21:37] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:21:37] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:48203] logged in with entity id 25593 at ([world_nether]517.0253790322785, 30.33659346202705, 691.3205721585974)
+[23:22:10] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[23:22:10] [Server thread/INFO]: _TaeV_ left the game
+[23:22:26] [Server thread/INFO]: MrCreeper1 has reached the goal [Postmortal]

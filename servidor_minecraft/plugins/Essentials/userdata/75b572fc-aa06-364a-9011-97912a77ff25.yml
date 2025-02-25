@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1740098907047
+  lastteleport: 1740447001163
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740434490736
+  logout: 1740447051211
   login: 1740435743380
 money: '0'
 last-account-name: elguatavo7u7159
 logoutlocation:
-  world: 51bde1e6-62c9-46b3-a258-322723ff969b
-  world-name: world
-  x: 2849.762499988079
-  y: 42.0
-  z: 3024.9106681073295
-  yaw: -79.39704895019531
-  pitch: 3.603375196456909
+  world: 326c389f-88fd-4b7b-b445-dfb70f9f275b
+  world-name: world_nether
+  x: 304.6677392741686
+  y: 115.0
+  z: 362.8226346439969
+  yaw: -177.8434295654297
+  pitch: 6.908401012420654
 lastlocation:
   world: 326c389f-88fd-4b7b-b445-dfb70f9f275b
   world-name: world_nether
-  x: 328.30173043097744
-  y: 5.425668294652435
-  z: 369.36324690163036
-  yaw: -33.29638671875
-  pitch: 35.05048370361328
+  x: 193.04317957758872
+  y: 18.858373427581824
+  z: 20.130108463566053
+  yaw: 49.34893798828125
+  pitch: 28.68150520324707

@@ -18,3 +18,17 @@
 [00:31:51] [Async Chat Thread - #22/INFO]: [Not Secure] <MrCreeper1> 7seed
 [00:40:24] [Server thread/INFO]: Villager Villager['Librarian'/344, uuid='186f5a99-3648-4189-a59e-e97a07cbca85', l='ServerLevel[world]', x=2477.50, y=89.00, z=2948.70, cpos=[154, 184], tl=2921622, v=true] died, message: 'Librarian was slain by Zombie'
 [00:57:41] [Server thread/WARN]: kanekasotaku moved wrongly!
+[01:07:41] [User Authenticator #14/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[01:07:48] [Server thread/INFO]: mechajuan3 joined the game
+[01:07:48] [Server thread/INFO]: mechajuan3[/127.241.198.181:41811] logged in with entity id 105026 at ([world]2836.300000011921, 38.875, 3039.025380463477)
+[01:08:08] [Async Chat Thread - #24/INFO]: [Not Secure] <mechajuan3> oye bro respeta
+[01:08:14] [Server thread/INFO]: MrCreeper1 lost connection: Disconnected
+[01:08:14] [Server thread/INFO]: MrCreeper1 left the game
+[01:08:29] [User Authenticator #14/INFO]: UUID of player MrCreeper1 is 2a711b43-12fd-3fa1-b396-372db0034d95
+[01:08:31] [Server thread/INFO]: MrCreeper1 joined the game
+[01:08:32] [Server thread/INFO]: MrCreeper1[/127.71.79.128:37029] logged in with entity id 105384 at ([world]2504.4613040505415, 89.0, 3006.773224973693)
+[01:08:34] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[01:08:34] [Server thread/INFO]: mechajuan3 left the game
+[01:08:42] [User Authenticator #14/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[01:08:44] [Server thread/INFO]: mechajuan3 joined the game
+[01:08:44] [Server thread/INFO]: mechajuan3[/127.241.198.181:48891] logged in with entity id 105450 at ([world]2837.237500011921, 38.0, 3038.401177067076)

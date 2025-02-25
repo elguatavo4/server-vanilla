@@ -9,3 +9,10 @@
 [00:23:32] [User Authenticator #12/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
 [00:23:33] [Server thread/INFO]: _TaeV_ joined the game
 [00:23:33] [Server thread/INFO]: _TaeV_[/127.151.148.217:36865] logged in with entity id 68917 at ([world]2852.791871698417, 37.125, 3042.2795471119666)
+[00:25:37] [User Authenticator #13/INFO]: UUID of player kanekasotaku is a5a1ae33-1829-3f1d-b6a1-413808b2dbae
+[00:25:38] [Server thread/INFO]: kanekasotaku lost connection: You logged in from another location
+[00:25:38] [Server thread/INFO]: kanekasotaku left the game
+[00:25:40] [Server thread/INFO]: kanekasotaku joined the game
+[00:25:40] [Server thread/INFO]: kanekasotaku[/127.146.202.33:56661] logged in with entity id 70225 at ([world_the_end]274.01110169876193, 1.0, 31.598484078434343)
+[00:31:47] [Server thread/INFO]: MrCreeper1 issued server command: /seed
+[00:31:51] [Async Chat Thread - #22/INFO]: [Not Secure] <MrCreeper1> 7seed

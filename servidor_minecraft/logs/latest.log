@@ -265,3 +265,24 @@ java.lang.IllegalStateException: zip file closed
 [22:59:51] [Server thread/WARN]: mechajuan3 moved too quickly! -3.0742142607491587,-4.125,11.612684445398827
 [23:00:16] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
 [23:00:16] [Server thread/INFO]: _TaeV_ left the game
+[23:02:48] [Server thread/INFO]: mechajuan3 lost connection: Timed out
+[23:02:48] [Server thread/INFO]: mechajuan3 left the game
+[23:03:06] [User Authenticator #3/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[23:03:07] [Server thread/INFO]: mechajuan3 joined the game
+[23:03:07] [Server thread/INFO]: mechajuan3[/127.241.198.181:48989] logged in with entity id 9413 at ([world]2506.160384170132, 89.0, 3007.7907676206173)
+[23:04:32] [Server thread/WARN]: mechajuan3 moved too quickly! -15.578057572618945,-0.41999998688697815,-19.638535422152927
+[23:05:00] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[23:05:00] [Server thread/INFO]: mechajuan3 left the game
+[23:05:09] [User Authenticator #4/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[23:05:10] [Server thread/INFO]: mechajuan3 joined the game
+[23:05:10] [Server thread/INFO]: mechajuan3[/127.241.198.181:34657] logged in with entity id 10221 at ([world]2472.660653011984, 86.0, 2971.699999988079)
+[23:05:59] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[23:05:59] [Server thread/INFO]: mechajuan3 left the game
+[23:06:28] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:06:28] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:06:55] [User Authenticator #5/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:06:58] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:06:58] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:39403] logged in with entity id 10883 at ([world]2501.688736336964, 97.95287989834715, 2897.5396329067803)
+[23:07:26] [User Authenticator #5/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[23:07:45] [Server thread/INFO]: mechajuan3 joined the game
+[23:07:45] [Server thread/INFO]: mechajuan3[/127.241.198.181:35759] logged in with entity id 11053 at ([world_nether]302.481340147212, 115.0, 367.5)

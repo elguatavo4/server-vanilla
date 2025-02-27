@@ -286,3 +286,13 @@ java.lang.IllegalStateException: zip file closed
 [23:07:26] [User Authenticator #5/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
 [23:07:45] [Server thread/INFO]: mechajuan3 joined the game
 [23:07:45] [Server thread/INFO]: mechajuan3[/127.241.198.181:35759] logged in with entity id 11053 at ([world_nether]302.481340147212, 115.0, 367.5)
+[23:47:35] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[23:47:35] [Server thread/INFO]: mechajuan3 left the game
+[23:47:45] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:47:45] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:47:57] [User Authenticator #6/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:47:59] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:47:59] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:36989] logged in with entity id 30383 at ([world]2502.1829936058466, 89.0, 3006.277281104802)
+[23:52:05] [User Authenticator #7/INFO]: UUID of player MrCreeper1 is 2a711b43-12fd-3fa1-b396-372db0034d95
+[23:52:09] [Server thread/INFO]: MrCreeper1 joined the game
+[23:52:09] [Server thread/INFO]: MrCreeper1[/127.71.79.128:39875] logged in with entity id 31480 at ([world]1032.699999988079, -56.4375, 1368.6547978638916)

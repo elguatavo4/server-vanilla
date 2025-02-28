@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740705936848
-  login: 1740705938723
+  logout: 1740709533646
+  login: 1740709535432
 money: '0'
 last-account-name: kanekasotaku
 logoutlocation:
-  world: 326c389f-88fd-4b7b-b445-dfb70f9f275b
-  world-name: world_nether
-  x: 342.30000001192093
-  y: 59.25220334025373
-  z: 487.1119121279915
-  yaw: 15.145721435546875
-  pitch: 24.30109405517578
+  world: 51bde1e6-62c9-46b3-a258-322723ff969b
+  world-name: world
+  x: 2496.7279487198803
+  y: 89.0
+  z: 3011.185836973348
+  yaw: -14.190399169921875
+  pitch: 30.948423385620117

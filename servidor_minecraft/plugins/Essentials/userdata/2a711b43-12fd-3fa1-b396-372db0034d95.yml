@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740702710182
+  logout: 1740706291137
   login: 1740702728073
 money: '0'
 last-account-name: MrCreeper1
 logoutlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
-  x: 2469.4321357694876
-  y: 89.63588500535488
-  z: 2964.714360897739
-  yaw: 24.448974609375
-  pitch: 1.9500187635421753
+  x: 2494.378080987434
+  y: 89.0
+  z: 2996.4218811168
+  yaw: -142.9481201171875
+  pitch: 28.8000545501709

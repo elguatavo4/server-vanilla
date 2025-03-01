@@ -1108,3 +1108,9 @@ java.lang.IllegalStateException: zip file closed
 [02:18:55] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> BAY
 [02:27:29] [Server thread/INFO]: kanekasotaku lost connection: Disconnected
 [02:27:29] [Server thread/INFO]: kanekasotaku left the game
+[02:47:57] [Server thread/WARN]: MrCreeper1 was kicked for floating too long!
+[02:47:57] [Server thread/INFO]: MrCreeper1 lost connection: Flying is not enabled on this server
+[02:47:57] [Server thread/INFO]: MrCreeper1 left the game
+[02:48:31] [User Authenticator #15/INFO]: UUID of player MrCreeper1 is 2a711b43-12fd-3fa1-b396-372db0034d95
+[02:48:32] [Server thread/INFO]: MrCreeper1 joined the game
+[02:48:32] [Server thread/INFO]: MrCreeper1[/127.71.79.128:36937] logged in with entity id 113701 at ([world]2478.193933580992, 89.84610397459554, 2983.7014213425)

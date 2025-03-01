@@ -1066,3 +1066,34 @@ java.lang.IllegalStateException: zip file closed
 [01:58:08] [User Authenticator #14/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
 [01:58:09] [Server thread/INFO]: elguatavo7u7159 joined the game
 [01:58:09] [Server thread/INFO]: elguatavo7u7159[/127.23.247.228:40049] logged in with entity id 82057 at ([world]-1854.1339857436908, -51.0, 6416.803379037365)
+[01:58:14] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[01:58:14] [Server thread/INFO]: elguatavo7u7159 left the game
+[01:58:14] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[01:58:14] [Server thread/INFO]: mechajuan3 left the game
+[01:58:15] [User Authenticator #14/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[01:58:16] [Server thread/INFO]: elguatavo7u7159 joined the game
+[01:58:16] [Server thread/INFO]: elguatavo7u7159[/127.23.247.228:53027] logged in with entity id 82213 at ([world]-1861.1801745185467, -51.0, 6415.18510199877)
+[01:58:21] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[01:58:22] [Server thread/INFO]: elguatavo7u7159 left the game
+[01:58:24] [User Authenticator #14/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[01:58:25] [Server thread/INFO]: elguatavo7u7159 joined the game
+[01:58:25] [Server thread/INFO]: elguatavo7u7159[/127.23.247.228:57459] logged in with entity id 82520 at ([world]-1854.9487716674196, -51.0, 6416.822895386953)
+[01:58:27] [User Authenticator #14/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[01:58:28] [Server thread/INFO]: mechajuan3 joined the game
+[01:58:28] [Server thread/INFO]: mechajuan3[/127.241.198.181:57201] logged in with entity id 82619 at ([world]-1847.2800422541495, -46.0, 6423.178559801421)
+[01:58:31] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[01:58:31] [Server thread/INFO]: elguatavo7u7159 left the game
+[01:58:33] [User Authenticator #14/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[01:58:34] [Server thread/INFO]: elguatavo7u7159 joined the game
+[01:58:34] [Server thread/INFO]: elguatavo7u7159[/127.23.247.228:45765] logged in with entity id 82780 at ([world]-1855.1368774812277, -51.0, 6416.619862872577)
+[01:58:38] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[01:58:38] [Server thread/INFO]: mechajuan3 left the game
+[01:58:47] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[01:58:47] [Server thread/INFO]: elguatavo7u7159 left the game
+[01:58:48] [User Authenticator #14/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[01:58:49] [User Authenticator #14/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[01:58:49] [Server thread/INFO]: elguatavo7u7159 joined the game
+[01:58:49] [Server thread/INFO]: elguatavo7u7159[/127.23.247.228:54191] logged in with entity id 82944 at ([world]-1855.4398275024878, -50.97345587838559, 6416.300000011921)
+[01:58:50] [Server thread/INFO]: mechajuan3 joined the game
+[01:58:50] [Server thread/INFO]: mechajuan3[/127.241.198.181:42961] logged in with entity id 82941 at ([world]-1845.4071673230035, -44.0, 6419.7538270010855)
+[02:03:38] [Server thread/INFO]: MrCreeper1 has made the advancement [The City at the End of the Game]

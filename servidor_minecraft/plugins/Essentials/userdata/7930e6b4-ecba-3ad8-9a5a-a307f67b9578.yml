@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740617197228
+  logout: 1740790280497
   login: 1740789248857
 money: '0'
 last-account-name: c_Benji0w0
 logoutlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
-  x: 60.5
+  x: 55.5
   y: 65.0
-  z: -41.5
-  yaw: -58.650001525878906
-  pitch: 19.94999885559082
+  z: -43.5
+  yaw: -54.60000991821289
+  pitch: 22.35000228881836

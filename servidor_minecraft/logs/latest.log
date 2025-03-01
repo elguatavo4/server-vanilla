@@ -239,3 +239,6 @@ java.lang.IllegalStateException: zip file closed
 [00:05:55] [Server thread/INFO]: kanekasotaku joined the game
 [00:05:55] [Server thread/INFO]: kanekasotaku[/127.249.106.88:52403] logged in with entity id 629 at ([world]2515.5, 92.0, 3007.5)
 [00:07:59] [Async Chat Thread - #0/INFO]: [Not Secure] <elguatavo7u7159> -181 794
+[00:19:16] [Server thread/WARN]: MrCreeper1 moved too quickly! 5.4796037812539,2.176759275064242,13.874519440169479
+[00:19:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9103ms or 182 ticks behind
+[00:20:11] [Server thread/INFO]: MrCreeper1 has made the advancement [Voluntary Exile]

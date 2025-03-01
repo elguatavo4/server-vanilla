@@ -242,3 +242,20 @@ java.lang.IllegalStateException: zip file closed
 [00:19:16] [Server thread/WARN]: MrCreeper1 moved too quickly! 5.4796037812539,2.176759275064242,13.874519440169479
 [00:19:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9103ms or 182 ticks behind
 [00:20:11] [Server thread/INFO]: MrCreeper1 has made the advancement [Voluntary Exile]
+[00:25:23] [User Authenticator #1/INFO]: UUID of player kanekasotaku is a5a1ae33-1829-3f1d-b6a1-413808b2dbae
+[00:25:23] [Server thread/INFO]: kanekasotaku lost connection: You logged in from another location
+[00:25:23] [Server thread/INFO]: kanekasotaku left the game
+[00:25:25] [Server thread/INFO]: kanekasotaku joined the game
+[00:25:25] [Server thread/INFO]: kanekasotaku[/127.249.106.88:46109] logged in with entity id 13099 at ([world]2484.909156980991, 89.73223912963971, 2987.6729402976075)
+[00:27:50] [Server thread/INFO]: MrCreeper1 has made the advancement [Ol' Betsy]
+[00:27:50] [Server thread/INFO]: MrCreeper1 has made the advancement [Take Aim]
+[00:31:16] [Server thread/INFO]: Villager Villager['Fletcher'/43, uuid='19ee6264-991f-485b-99ea-7b5ae6d0a65b', l='ServerLevel[world]', x=2480.70, y=89.00, z=2961.70, cpos=[155, 185], tl=2986867, v=true] died, message: 'Fletcher was slain by Zombie'
+[00:34:06] [User Authenticator #2/INFO]: UUID of player c_Benji0w0 is 7930e6b4-ecba-3ad8-9a5a-a307f67b9578
+[00:34:08] [Server thread/INFO]: c_Benji0w0 joined the game
+[00:34:08] [Server thread/INFO]: c_Benji0w0[/127.187.255.62:39809] logged in with entity id 17632 at ([world]60.5, 65.0, -41.5)
+[00:34:15] [Async Chat Thread - #1/INFO]: [Not Secure] <elguatavo7u7159> o pe benjardo oe
+[00:34:21] [Async Chat Thread - #2/INFO]: [Not Secure] <c_Benji0w0> y la guerra?
+[00:34:22] [Async Chat Thread - #2/INFO]: [Not Secure] <kanekasotaku> puto
+[00:34:36] [Async Chat Thread - #2/INFO]: [Not Secure] <elguatavo7u7159> se retraso mono por su campamento sera l merdole creo
+[00:34:52] [Async Chat Thread - #2/INFO]: [Not Secure] <elguatavo7u7159> bueno juege nbonito
+[00:34:59] [Server thread/INFO]: MrCreeper1 has completed the challenge [Hero of the Village]

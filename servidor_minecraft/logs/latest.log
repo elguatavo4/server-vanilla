@@ -259,3 +259,14 @@ java.lang.IllegalStateException: zip file closed
 [20:59:50] [Server thread/WARN]: ThiaguitoOwO2021 moved wrongly!
 [21:02:27] [Async Chat Thread - #4/INFO]: [Not Secure] <ThiaguitoOwO2021> ok pe
 [21:02:59] [Async Chat Thread - #5/INFO]: [Not Secure] <ThiaguitoOwO2021> 303 115 266
+[21:03:15] [Async Chat Thread - #5/INFO]: [Not Secure] <ThiaguitoOwO2021> no es 266 es 366 mi error
+[21:04:36] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[21:04:36] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:04:54] [User Authenticator #4/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[21:04:55] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:04:55] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:35025] logged in with entity id 13024 at ([world]2520.895781188878, 87.0, 3006.2363643042345)
+[21:13:28] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[21:13:28] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:13:36] [User Authenticator #5/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[21:13:37] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:13:37] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:45395] logged in with entity id 16369 at ([world_nether]303.69999998807907, 115.6277367799148, 368.0339961330433)

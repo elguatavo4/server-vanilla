@@ -276,3 +276,6 @@ java.lang.IllegalStateException: zip file closed
 [21:20:38] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
 [21:20:38] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:44363] logged in with entity id 18673 at ([world]2490.5, 89.0, 3010.8240699079834)
 [21:37:29] [Async Chat Thread - #6/INFO]: [Not Secure] <elguatavo7u7159> 2852 3037
+[21:48:32] [Server thread/WARN]: mechajuan3 moved too quickly! 3.385909451410498,-3.2541843981487446,15.267073298570722
+[21:51:38] [Server thread/WARN]: elguatavo7u7159 moved wrongly!
+[21:53:06] [Server thread/INFO]: Villager Villager['Villager'/39991, uuid='9fc78505-e4ff-41a9-b1be-7e8e4c9c3fd9', l='ServerLevel[world]', x=2857.71, y=22.00, z=3038.50, cpos=[178, 189], tl=3176171, v=true] died, message: 'Villager was slain by elguatavo7u7159'

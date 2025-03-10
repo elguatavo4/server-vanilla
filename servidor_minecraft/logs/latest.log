@@ -318,3 +318,9 @@ java.lang.IllegalStateException: zip file closed
 [22:23:34] [Server thread/INFO]: mechajuan3 joined the game
 [22:23:34] [Server thread/INFO]: mechajuan3[/127.241.198.181:34585] logged in with entity id 48176 at ([world]2848.2664132890864, 27.0, 3039.0208407145496)
 [22:25:46] [Async Chat Thread - #13/INFO]: [Not Secure] <mechajuan3> ezz
+[22:32:56] [Async Chat Thread - #15/INFO]: [Not Secure] <mechajuan3> QUE SIGNIFICA EL BRO RESPETA
+[22:34:32] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[22:34:32] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[22:35:01] [User Authenticator #13/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[22:35:02] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[22:35:02] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:47333] logged in with entity id 51905 at ([world]2849.490006523316, 61.865352371994334, 3024.8210392144897)

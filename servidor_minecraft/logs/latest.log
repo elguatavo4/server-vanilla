@@ -270,3 +270,8 @@ java.lang.IllegalStateException: zip file closed
 [21:13:36] [User Authenticator #5/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
 [21:13:37] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
 [21:13:37] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:45395] logged in with entity id 16369 at ([world_nether]303.69999998807907, 115.6277367799148, 368.0339961330433)
+[21:20:25] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[21:20:25] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:20:37] [User Authenticator #6/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[21:20:38] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:20:38] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:44363] logged in with entity id 18673 at ([world]2490.5, 89.0, 3010.8240699079834)

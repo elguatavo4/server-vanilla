@@ -279,3 +279,8 @@ java.lang.IllegalStateException: zip file closed
 [21:48:32] [Server thread/WARN]: mechajuan3 moved too quickly! 3.385909451410498,-3.2541843981487446,15.267073298570722
 [21:51:38] [Server thread/WARN]: elguatavo7u7159 moved wrongly!
 [21:53:06] [Server thread/INFO]: Villager Villager['Villager'/39991, uuid='9fc78505-e4ff-41a9-b1be-7e8e4c9c3fd9', l='ServerLevel[world]', x=2857.71, y=22.00, z=3038.50, cpos=[178, 189], tl=3176171, v=true] died, message: 'Villager was slain by elguatavo7u7159'
+[21:59:55] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[21:59:55] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[22:00:12] [User Authenticator #7/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[22:00:13] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[22:00:13] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:53059] logged in with entity id 42848 at ([world]2081.339922645226, 185.0, 1903.7900216270295)

@@ -354,3 +354,10 @@ java.lang.IllegalStateException: zip file closed
 [21:37:43] [Async Chat Thread - #11/INFO]: [Not Secure] <elguatavo7u7159> pos is pe
 [21:37:59] [Async Chat Thread - #11/INFO]: [Not Secure] <ThiaguitoOwO2021> ire a granjear pe
 [21:38:05] [Async Chat Thread - #11/INFO]: [Not Secure] <elguatavo7u7159> ok
+[22:13:40] [Server thread/INFO]: Made elguatavo7u7159 a server operator
+[22:13:47] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[22:14:00] [Server thread/INFO]: Villager Villager['Villager'/18674, uuid='b4dab18f-a7d8-413d-8198-7aa0d7e15b19', l='ServerLevel[world]', x=2845.29, y=22.56, z=3046.55, cpos=[177, 190], tl=3962942, v=true] died, message: 'Villager was slain by elguatavo7u7159'
+[22:14:08] [Server thread/INFO]: Villager Villager['Farmer'/18677, uuid='32d649ca-8753-47b8-b915-8f7b4fded54f', l='ServerLevel[world]', x=2845.44, y=22.00, z=3041.18, cpos=[177, 190], tl=3557720, v=true] died, message: 'Farmer was slain by elguatavo7u7159'
+[22:14:12] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
+[22:14:21] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[22:15:00] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival

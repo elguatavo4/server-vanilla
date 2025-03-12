@@ -264,3 +264,10 @@ java.lang.IllegalStateException: zip file closed
 [20:44:28] [Server thread/WARN]: Skeleton Horse (vehicle of ThiaguitoOwO2021) moved wrongly! 4.2935735371384
 [20:44:28] [Server thread/WARN]: Skeleton Horse (vehicle of ThiaguitoOwO2021) moved wrongly! 4.47850257897062
 [20:44:28] [Server thread/WARN]: Skeleton Horse (vehicle of ThiaguitoOwO2021) moved wrongly! 4.634224333261955
+[21:02:12] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[21:02:12] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:02:42] [User Authenticator #2/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[21:02:43] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:02:43] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:59421] logged in with entity id 8378 at ([world]2578.1374474061254, 63.22933244939982, 3020.0565103002527)
+[21:04:31] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[21:04:31] [Server thread/INFO]: ThiaguitoOwO2021 left the game

@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1741818553178
+  logout: 1741994363595
   login: 1741988711078
 money: '0'
 last-account-name: elguatavo7u7159
 logoutlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
-  x: 2845.538788186816
-  y: 22.0
-  z: 3045.280983573323
-  yaw: -9.577880859375
-  pitch: 20.535228729248047
+  x: 2081.37389571352
+  y: 63.0
+  z: 1914.3563629375396
+  yaw: -165.240234375
+  pitch: -14.059601783752441
 lastlocation:
   world: 326c389f-88fd-4b7b-b445-dfb70f9f275b
   world-name: world_nether

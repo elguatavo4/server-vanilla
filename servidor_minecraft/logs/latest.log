@@ -344,3 +344,5 @@ java.lang.IllegalStateException: zip file closed
 [23:19:29] [Server thread/INFO]: _TaeV_ left the game
 [23:24:00] [Server thread/INFO]: Villager Villager['Fletcher'/742, uuid='2227bc84-f04b-49bf-a6d6-8b21a22d7596', l='ServerLevel[world]', x=2506.77, y=87.25, z=3009.48, cpos=[156, 188], tl=3641691, v=true] died, message: 'Fletcher was blown up by MrCreeper1'
 [23:24:00] [Server thread/INFO]: Villager Villager['Farmer'/744, uuid='782289fb-153c-4c4e-933b-7ffd0ea3f8b7', l='ServerLevel[world]', x=2506.68, y=87.00, z=3011.48, cpos=[156, 188], tl=3477097, v=true] died, message: 'Farmer was blown up by MrCreeper1'
+[23:24:49] [Server thread/INFO]: MrCreeper1 lost connection: Disconnected
+[23:24:49] [Server thread/INFO]: MrCreeper1 left the game

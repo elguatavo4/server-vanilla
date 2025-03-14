@@ -329,3 +329,12 @@ java.lang.IllegalStateException: zip file closed
 [22:25:26] [User Authenticator #6/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
 [22:25:27] [Server thread/INFO]: _TaeV_ joined the game
 [22:25:27] [Server thread/INFO]: _TaeV_[/127.151.148.217:46333] logged in with entity id 12155 at ([world]2848.9223423391845, 27.875, 3071.8741998159926)
+[22:58:05] [Server thread/WARN]: elguatavo7u7159 moved wrongly!
+[23:07:10] [Server thread/INFO]: MrCreeper1 tried to swim in lava
+[23:09:03] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[23:09:03] [Server thread/INFO]: _TaeV_ left the game
+[23:10:00] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:10:00] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:12:43] [User Authenticator #7/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[23:12:44] [Server thread/INFO]: _TaeV_ joined the game
+[23:12:44] [Server thread/INFO]: _TaeV_[/127.151.148.217:37167] logged in with entity id 40990 at ([world]2499.3090006115926, 91.875, 3013.699999988079)

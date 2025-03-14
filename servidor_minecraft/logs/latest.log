@@ -319,3 +319,13 @@ java.lang.IllegalStateException: zip file closed
 [22:22:54] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
 [22:22:54] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:48041] logged in with entity id 10905 at ([world]2429.6957197119114, 102.0, 2972.257320812251)
 [22:23:02] [Async Chat Thread - #18/INFO]: [Not Secure] <elguatavo7u7159> q fue tiago
+[22:23:08] [Async Chat Thread - #17/INFO]: [Not Secure] <ThiaguitoOwO2021> las clases pe
+[22:24:41] [Server thread/WARN]: MrCreeper1 was kicked for floating too long!
+[22:24:41] [Server thread/INFO]: MrCreeper1 lost connection: Flying is not enabled on this server
+[22:24:41] [Server thread/INFO]: MrCreeper1 left the game
+[22:25:16] [User Authenticator #6/INFO]: UUID of player MrCreeper1 is 2a711b43-12fd-3fa1-b396-372db0034d95
+[22:25:18] [Server thread/INFO]: MrCreeper1 joined the game
+[22:25:18] [Server thread/INFO]: MrCreeper1[/127.71.79.128:53879] logged in with entity id 12102 at ([world]2499.487007047888, 89.49133808212872, 3001.7027225917627)
+[22:25:26] [User Authenticator #6/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[22:25:27] [Server thread/INFO]: _TaeV_ joined the game
+[22:25:27] [Server thread/INFO]: _TaeV_[/127.151.148.217:46333] logged in with entity id 12155 at ([world]2848.9223423391845, 27.875, 3071.8741998159926)

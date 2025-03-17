@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.249.106.88
+ip-address: 127.25.39.3
 afk: false
 socialspy: false
 npc: false
@@ -17,7 +17,7 @@ timestamps:
   jail: 0
   onlinejail: 0
   logout: 1740796049188
-  login: 1740792332823
+  login: 1742254706239
 money: '0'
 last-account-name: kanekasotaku
 logoutlocation:

@@ -348,3 +348,13 @@ java.lang.IllegalStateException: zip file closed
 [23:23:28] [Async Chat Thread - #23/INFO]: [Not Secure] <ThiaguitoOwO2021> keseso
 [23:34:16] [Server thread/WARN]: elguatavo7u7159 moved wrongly!
 [23:34:37] [Server thread/WARN]: elguatavo7u7159 moved wrongly!
+[23:38:23] [User Authenticator #3/INFO]: UUID of player kanekasotaku is a5a1ae33-1829-3f1d-b6a1-413808b2dbae
+[23:38:26] [Server thread/INFO]: kanekasotaku joined the game
+[23:38:26] [Server thread/INFO]: kanekasotaku[/127.25.39.3:49131] logged in with entity id 51567 at ([world_nether]258.22258458957987, 115.0, 200.30000001192093)
+[23:39:55] [Server thread/WARN]: elguatavo7u7159 moved wrongly!
+[23:40:22] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[23:40:22] [Server thread/INFO]: elguatavo7u7159 left the game
+[23:41:42] [User Authenticator #4/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[23:41:51] [Server thread/INFO]: mechajuan3 joined the game
+[23:41:51] [Server thread/INFO]: mechajuan3[/127.241.198.181:47249] logged in with entity id 53267 at ([world]2847.710344699186, 37.0, 3045.1880104796883)
+[23:45:10] [Server thread/INFO]: mechajuan3 has made the advancement [Tactical Fishing]

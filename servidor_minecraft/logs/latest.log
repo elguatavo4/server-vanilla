@@ -262,3 +262,8 @@ java.lang.IllegalStateException: zip file closed
 [21:19:59] [Async Chat Thread - #6/INFO]: [Not Secure] <elguatavo7u7159> si si
 [21:20:03] [Async Chat Thread - #5/INFO]: [Not Secure] <elguatavo7u7159> hace trampas pe
 [21:20:07] [Async Chat Thread - #5/INFO]: [Not Secure] <elguatavo7u7159> y pòsiones
+[21:22:37] [User Authenticator #1/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[21:22:38] [Server thread/INFO]: _TaeV_ joined the game
+[21:22:38] [Server thread/INFO]: _TaeV_[/127.151.148.217:38015] logged in with entity id 2854 at ([world]2499.324186589067, 91.875, 3013.699999988079)
+[21:29:34] [Async Chat Thread - #7/INFO]: [Not Secure] <ThiaguitoOwO2021> gustavo tienes hongos???}
+[21:29:56] [Server thread/INFO]: Villager Villager['Farmer'/744, uuid='60577406-fb98-4de8-9601-087485938ef2', l='ServerLevel[world]', x=2513.61, y=91.82, z=3011.30, cpos=[157, 188], tl=4339857, v=true] died, message: 'Farmer was slain by Zombie'

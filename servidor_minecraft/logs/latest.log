@@ -336,3 +336,11 @@ java.lang.IllegalStateException: zip file closed
 [22:02:30] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
 [22:02:35] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
 [22:02:55] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[22:03:54] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[22:04:07] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[22:04:11] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[22:04:20] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[22:04:26] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[22:04:27] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[22:04:30] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[22:04:35] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival

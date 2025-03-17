@@ -311,3 +311,28 @@ java.lang.IllegalStateException: zip file closed
 [21:49:20] [Async Chat Thread - #19/INFO]: [Not Secure] <ThiaguitoOwO2021> a si tienes hongos?
 [21:49:27] [Async Chat Thread - #19/INFO]: [Not Secure] <elguatavo7u7159> si si tengo pe
 [21:49:37] [Async Chat Thread - #18/INFO]: [Not Secure] <elguatavo7u7159> voy
+[21:55:23] [Server thread/INFO]: Villager Villager['Fletcher'/11282, uuid='9afdcaa5-0b11-45ec-9531-69b820faa1dc', l='ServerLevel[world]', x=2830.48, y=78.00, z=3044.70, cpos=[176, 190], tl=3528327, v=true] died, message: 'Fletcher was slain by Drowned'
+[21:57:38] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[21:57:42] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[21:58:05] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[21:59:27] [Server thread/INFO]: elguatavo7u7159 issued server command: /give elguatavo7u7159 structure_block
+[21:59:47] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[22:00:09] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[22:00:23] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[22:00:35] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[22:01:04] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode adventure
+[22:01:06] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[22:01:07] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[22:01:07] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[22:01:26] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[22:01:31] [Async Chat Thread - #21/INFO]: [Not Secure] <ThiaguitoOwO2021> ops
+[22:01:32] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[22:01:34] [Async Chat Thread - #21/INFO]: [Not Secure] <ThiaguitoOwO2021> perdon we
+[22:01:41] [Async Chat Thread - #21/INFO]: [Not Secure] <elguatavo7u7159> mañoso
+[22:01:56] [Async Chat Thread - #21/INFO]: [Not Secure] <elguatavo7u7159> estoy guardando las contrucsiones
+[22:01:57] [Async Chat Thread - #21/INFO]: [Not Secure] <elguatavo7u7159> pe
+[22:02:05] [Async Chat Thread - #21/INFO]: [Not Secure] <ThiaguitoOwO2021> okok
+[22:02:25] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[22:02:30] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[22:02:35] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[22:02:55] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
